@@ -1,0 +1,7 @@
+{
+  "name": "vocability-ionic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

@@ -1,45 +1,49 @@
 .ios, .md {
 
-  page-home {
+    page-home {
 
-      ion-slide {
-          align-items: flex-start;
-          align-items: center;
-          justify-content: center;
-          background-color: map-get($colors, dark);
-      }
+        ion-slide {
+            margin-top: 20px;
+            margin-bottom: 20px;
+            width: 70%w;
+            height: 70%h;
+            justify-content: center;
+            align-items: center;
+        }
 
-      ion-item {
-          margin-bottom: 5px;
-          margin-block-end: 5px;
-          font-size: 1.2em;
-          background-color: map-get($colors, primary);
-      }
+        ion-item {
+            margin-bottom: 5px;
+            font-size: 1.2em;
+            background-color: map-get($colors, primary);
 
-      flash-card {
+            justify-content: center;
+            align-items: center;
+        }
 
-          img {
-              width: 70%;
-              height: auto;
-          }
-      }
+        flash-card {
+            color: $text-color;
 
-      .start-slide {
-          justify-content: center;
-          align-items: center;
+            img {
+                width: 70%;
+                height: auto;
+            }
+        }
 
-          button {
-              font-size: 1.3em;
-              font-weight: bold;
-              background-color: map-get($colors, secondary);
-          }
-      }
+        .start-slide {
+            justify-content: center;
+            align-items: center;
 
-      .my-label {
-        font-size: 0.8em;
-        color: rgb(255, 255, 255);
-      }
+            button {
+                font-size: 1.3em;
+                font-weight: bold;
+            }
 
-  }
+            ion-item {
+                font-size: 0.8em;
+            }
+        }
+
+
+    }
 
 }

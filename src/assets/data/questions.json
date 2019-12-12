@@ -5,7 +5,7 @@
 			"flashCardFront": "DIPLOBLASTIC",
 			"flashCardBack": "Characterizing the ovum when it has two primary germinallayers.",
 			"flashCardFlipped": false,
-			"questionText": "What is the meaning of the word above?",
+			"questionText": "What is the meaning of the word below?",
 			"answers": [
 				{"answer": "Characterizing the ovum when it has two primary germinallayers.", "correct": true, "selected": false},
 				{"answer": "A suborder of Theromorpha", "correct": false, "selected": false},
@@ -13,25 +13,25 @@
 			]
 		},
 		{
-			"flashCardFront": "<img src='assets/images/plane.png' />",
-			"flashCardBack": "Plane",
+			"flashCardFront": "DEFIGURE",
+			"flashCardBack": "To delineate",
 			"flashCardFlipped": false,
-			"questionText": "What is this?",
+			"questionText": "What is the meaning of the word below?",
 			"answers": [
-				{"answer": "Helicopter", "correct": false, "selected": false},
-				{"answer": "Plane", "correct": true, "selected": false},
-				{"answer": "Truck", "correct": false, "selected": false}
+				{"answer": "A tall perennial grass", "correct": false, "selected": false},
+				{"answer": "To delineate", "correct": true, "selected": false},
+				{"answer": "Petty theft", "correct": false, "selected": false}
 			]
 		},
 		{
-			"flashCardFront": "<img src='assets/images/truck.png' />",
-			"flashCardBack": "Truck",
+			"flashCardFront": "ROYALET",
+			"flashCardBack": "A petty or powerless king",
 			"flashCardFlipped": false,
 			"questionText": "What is this?",
 			"answers": [
-				{"answer": "Helicopter", "correct": false, "selected": false},
-				{"answer": "Plane", "correct": false, "selected": false},
-				{"answer": "Truck", "correct": true, "selected": false}
+				{"answer": "One of a sect of ancient Christians", "correct": false, "selected": false},
+				{"answer": "The trunk or stem of a tree", "correct": false, "selected": false},
+				{"answer": "A petty or powerless king", "correct": true, "selected": false}
 			]
 		}
 

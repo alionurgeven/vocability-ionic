@@ -82,6 +82,7 @@ export class HomePage {
         this.slides.lockSwipes(false);
         this.slides.slideTo(1, 1000);
         this.slides.lockSwipes(true);
+        this.ionViewDidLoad();
     }
 
 }

@@ -1,0 +1,45 @@
+.ios, .md {
+
+  page-home {
+
+      ion-slide {
+          align-items: flex-start;
+          align-items: center;
+          justify-content: center;
+          background-color: map-get($colors, dark);
+      }
+
+      ion-item {
+          margin-bottom: 5px;
+          margin-block-end: 5px;
+          font-size: 1.2em;
+          background-color: map-get($colors, primary);
+      }
+
+      flash-card {
+
+          img {
+              width: 70%;
+              height: auto;
+          }
+      }
+
+      .start-slide {
+          justify-content: center;
+          align-items: center;
+
+          button {
+              font-size: 1.3em;
+              font-weight: bold;
+              background-color: map-get($colors, secondary);
+          }
+      }
+
+      .my-label {
+        font-size: 0.8em;
+        color: rgb(255, 255, 255);
+      }
+
+  }
+
+}

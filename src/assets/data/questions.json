@@ -1,0 +1,39 @@
+{
+	"questions": [
+
+		{
+			"flashCardFront": "DIPLOBLASTIC",
+			"flashCardBack": "Characterizing the ovum when it has two primary germinallayers.",
+			"flashCardFlipped": false,
+			"questionText": "What is the meaning of the word above?",
+			"answers": [
+				{"answer": "Characterizing the ovum when it has two primary germinallayers.", "correct": true, "selected": false},
+				{"answer": "A suborder of Theromorpha", "correct": false, "selected": false},
+				{"answer": "One who rejoices.", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/plane.png' />",
+			"flashCardBack": "Plane",
+			"flashCardFlipped": false,
+			"questionText": "What is this?",
+			"answers": [
+				{"answer": "Helicopter", "correct": false, "selected": false},
+				{"answer": "Plane", "correct": true, "selected": false},
+				{"answer": "Truck", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/images/truck.png' />",
+			"flashCardBack": "Truck",
+			"flashCardFlipped": false,
+			"questionText": "What is this?",
+			"answers": [
+				{"answer": "Helicopter", "correct": false, "selected": false},
+				{"answer": "Plane", "correct": false, "selected": false},
+				{"answer": "Truck", "correct": true, "selected": false}
+			]
+		}
+
+	]
+}

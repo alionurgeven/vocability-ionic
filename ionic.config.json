@@ -1,7 +1,5 @@
 {
   "name": "vocability-ionic",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "angular"
+  "app_id": "",
+  "type": "ionic-angular"
 }
